@@ -1,0 +1,28 @@
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 550px 550px 550px 550px;
+    border: 5px;
+}
+h1{
+    background-color: blue;
+
+}
+body{
+    background-color: black;
+    font-family: Trebuchet MS;
+    color: antiquewhite;
+    text-align: center;
+}
+
+a{
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    color: slateblue;
+}
+p{
+    font-size: 20px;
+}
